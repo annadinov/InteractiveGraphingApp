@@ -1,0 +1,13 @@
+name: InteractiveMfrpGraphing
+title: InteractiveMfrpGraphing
+username:
+account: annasophia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7279058
+bundleId: 6397202
+url: https://annasophia.shinyapps.io/InteractiveMfrpGraphing/
+when: 1665616796.71282
+lastSyncTime: 1665616796.71289
+asMultiple: FALSE
+asStatic: FALSE
